@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: arithmeticParser.arithmeticParser-jvm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/arithmeticParser/build/libs/arithmeticParser-jvm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/androidApp.iml" group="calculator/androidApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser.iml" filepath="$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser.iml" group="calculator/arithmeticParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_commonMain.iml" group="arithmeticParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_commonTest.iml" group="arithmeticParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_iosMain.iml" group="arithmeticParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_iosTest.iml" group="arithmeticParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_jvmMain.iml" group="arithmeticParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/arithmeticParser/arithmeticParser_jvmTest.iml" group="arithmeticParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/calculator.iml" group="calculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cliApp/cliApp.iml" filepath="$PROJECT_DIR$/.idea/modules/cliApp/cliApp.iml" group="calculator/cliApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cliApp/cliApp_jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/cliApp/cliApp_jvmMain.iml" group="cliApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cliApp/cliApp_jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cliApp/cliApp_jvmTest.iml" group="cliApp" />
+    </modules>
+  </component>
+</project>

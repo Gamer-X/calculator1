@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\718087394ce2e51602ccdf9a508e74d8\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\af25173df5e90320c691ac8ad97ee780\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\47e1bbf72071e01aab96a2d59dd4a472\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\a705c2c43ea47d096d46ff8a803c2907\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\ba0749dfe4b1f663c35a927a253ee978\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\c1a5715ecfd074bcf1d3ae40de7a9af5\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\9600fea4984df8afc5b7813834d156db\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\e90aa269fea3d2da8e93c0755726b5e2\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\4b82e762c074cfadedf36f55bd7d1640\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\0f313ef8016e75dfe15d44db18566053\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\90793c39b573345e96d8ae40839d8097\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\f96ee0462dda8d0cb94896599dad9bb5\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\076dfa9596cdaa991f7ea6f67a2148ee\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\1d259af064ec1e088dbeb70371452107\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7570250446dda27e2bb2112cbeae164d\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7b50eda1d62e25250760173fb056ad90\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\ff70ddb0aa6e99fd29dd4a56f31409ee\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\3542abbb3d5970ea68d16cbc6a15ecc0\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\990eb83d784caa66cd8efa734f9c4032\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\9cd75f5401a8fcc8dd5a8ae78abdd706\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\dfc929778d2487e4339581dfc9a4e099\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\303657dbfe9327028c56deb35ed953d6\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\c88e6288e87b60491bd9f4cb3c584f07\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\b5bf69090840a3180452178ad6a9c72f\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\505b6439b25e2e832bbb00395768c340\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\1753076f2ea566e694d817d0a9d77693\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\baf1cca07f95d545b8cf7fd49ecaeda3\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+application
+ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\af25173df5e90320c691ac8ad97ee780\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\af25173df5e90320c691ac8ad97ee780\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7b50eda1d62e25250760173fb056ad90\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7b50eda1d62e25250760173fb056ad90\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\ff70ddb0aa6e99fd29dd4a56f31409ee\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\ff70ddb0aa6e99fd29dd4a56f31409ee\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7b50eda1d62e25250760173fb056ad90\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:13:9-40
+activity#sample.calculator.android.MainActivity
+ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:15:9-23:19
+	android:theme
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:16:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:19:15-67
+	android:name
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:19:23-64
+category#android.intent.category.LAUNCHER
+ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:21:15-75
+	android:name
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml:21:25-72
+uses-sdk
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\718087394ce2e51602ccdf9a508e74d8\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\718087394ce2e51602ccdf9a508e74d8\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\af25173df5e90320c691ac8ad97ee780\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\af25173df5e90320c691ac8ad97ee780\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\47e1bbf72071e01aab96a2d59dd4a472\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\47e1bbf72071e01aab96a2d59dd4a472\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\a705c2c43ea47d096d46ff8a803c2907\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\a705c2c43ea47d096d46ff8a803c2907\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\ba0749dfe4b1f663c35a927a253ee978\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\ba0749dfe4b1f663c35a927a253ee978\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\c1a5715ecfd074bcf1d3ae40de7a9af5\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\c1a5715ecfd074bcf1d3ae40de7a9af5\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\9600fea4984df8afc5b7813834d156db\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\9600fea4984df8afc5b7813834d156db\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\e90aa269fea3d2da8e93c0755726b5e2\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\e90aa269fea3d2da8e93c0755726b5e2\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\4b82e762c074cfadedf36f55bd7d1640\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\4b82e762c074cfadedf36f55bd7d1640\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\0f313ef8016e75dfe15d44db18566053\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\0f313ef8016e75dfe15d44db18566053\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\90793c39b573345e96d8ae40839d8097\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\90793c39b573345e96d8ae40839d8097\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\f96ee0462dda8d0cb94896599dad9bb5\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\f96ee0462dda8d0cb94896599dad9bb5\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\076dfa9596cdaa991f7ea6f67a2148ee\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\076dfa9596cdaa991f7ea6f67a2148ee\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\1d259af064ec1e088dbeb70371452107\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\1d259af064ec1e088dbeb70371452107\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7570250446dda27e2bb2112cbeae164d\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7570250446dda27e2bb2112cbeae164d\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7b50eda1d62e25250760173fb056ad90\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\7b50eda1d62e25250760173fb056ad90\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\ff70ddb0aa6e99fd29dd4a56f31409ee\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\ff70ddb0aa6e99fd29dd4a56f31409ee\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\3542abbb3d5970ea68d16cbc6a15ecc0\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\3542abbb3d5970ea68d16cbc6a15ecc0\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\990eb83d784caa66cd8efa734f9c4032\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\990eb83d784caa66cd8efa734f9c4032\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\9cd75f5401a8fcc8dd5a8ae78abdd706\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\9cd75f5401a8fcc8dd5a8ae78abdd706\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\dfc929778d2487e4339581dfc9a4e099\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\dfc929778d2487e4339581dfc9a4e099\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\303657dbfe9327028c56deb35ed953d6\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\303657dbfe9327028c56deb35ed953d6\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\c88e6288e87b60491bd9f4cb3c584f07\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\c88e6288e87b60491bd9f4cb3c584f07\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\b5bf69090840a3180452178ad6a9c72f\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\b5bf69090840a3180452178ad6a9c72f\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\505b6439b25e2e832bbb00395768c340\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\505b6439b25e2e832bbb00395768c340\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\1753076f2ea566e694d817d0a9d77693\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\1753076f2ea566e694d817d0a9d77693\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\baf1cca07f95d545b8cf7fd49ecaeda3\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\GameraXe\.gradle\caches\transforms-2\files-2.1\baf1cca07f95d545b8cf7fd49ecaeda3\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+		ADDED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Calculator\calculator\androidApp\src\main\AndroidManifest.xml
